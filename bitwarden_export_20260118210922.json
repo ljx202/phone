@@ -1,0 +1,78 @@
+{
+  "encrypted": false,
+  "folders": [],
+  "items": [
+    {
+      "passwordHistory": [],
+      "revisionDate": "2026-01-18T11:43:29.806Z",
+      "creationDate": "2026-01-18T11:43:29.806Z",
+      "id": "c0823b02-c2e3-42e4-9446-80a3b66a8ca7",
+      "type": 1,
+      "reprompt": 0,
+      "name": "blog2.upxuu.com",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://blog2.upxuu.com/wp-login.php?redirect_to=https%3A%2F%2Fxuu.zeabur.app%2Fwp-admin%2F&reauth=1"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "lijiaxu",
+        "password": "lijiaxu2011",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2026-01-18T09:28:44.274Z",
+      "creationDate": "2026-01-18T09:28:44.274Z",
+      "id": "1358e57f-71bb-48e2-b451-56012f89e8fe",
+      "type": 1,
+      "reprompt": 0,
+      "name": "cloud.tencent.com",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://cloud.tencent.com/login?s_url=https%3A%2F%2Fcloud.tencent.com%2F"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "lijiaxulove@outlook.com",
+        "password": "lijiaxu2011@",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2026-01-18T10:44:33.110Z",
+      "creationDate": "2026-01-18T10:44:33.110Z",
+      "id": "3d9d27a1-3fb1-41fe-ab97-e4040939dfa8",
+      "type": 1,
+      "reprompt": 0,
+      "name": "xuu.zeabur.app",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://xuu.zeabur.app/wp-login.php"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "lijiaxu",
+        "password": "OrExFc1Wzi1aWU",
+        "totp": null
+      },
+      "collectionIds": null
+    }
+  ]
+}
